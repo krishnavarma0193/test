@@ -9,6 +9,6 @@ def join_strings(x,y):
 
 
 if __name__=="__main__":
-  print(join_strings("abc","xyz"))
+  print(join_strings("abc","str"))
   
   
